@@ -1,0 +1,21 @@
+{
+  "name": "motorola-wifi-enabler",
+  "version": "0.2.1",
+  "description": "Resets Modem Radio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wifi",
+    "motorola",
+    "modem",
+    "fix",
+    "reset"
+  ],
+  "author": "Arnas Jelizarovas",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^4.0.1"
+  }
+}
